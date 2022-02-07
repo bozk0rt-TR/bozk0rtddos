@@ -1,5 +1,6 @@
 # bozk0rtddos
 
-chmod +x backdoorddos.py
+python2 backdoorddos.py site.com
 
-python backdoorddos.py https://www.site.com
+
+instagram : https://instagram.com/bozk0rt/
