@@ -1,6 +1,6 @@
 # bozk0rtddos
 
-python2 bozk0rtddos.py site.com
+python3 bozk0rtddos.py site.com
 
 
 instagram : https://instagram.com/bozk0rt.dev/
